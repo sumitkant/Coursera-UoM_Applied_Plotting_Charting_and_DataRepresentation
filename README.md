@@ -10,6 +10,7 @@ This week covers basic principles of Information Visualization and is divided in
 ## Week 2
 This week covers the `matplotlib` architecture and hands on `matplotlib.pyplot` to create scatterplots, line charts, bar charts and Dejunkifying plots. You can find the complete notebook [here](https://github.com/sumitkant/UoM_C2_Applied_Plotting_Charting_DataRep/blob/master/Week%202/Week2.ipynb)
 
+This week's assignment covered working with real world CSV weather data. Data was manipulated to display the minimum and maximum temperature for a range of dates. Additionally, a composite chart was created by overlaying a scatter plot of record breaking data for a given year. The complete notebook is [here](https://github.com/sumitkant/Coursera-UoM_Applied_Plotting_Charting_and_DataRepresentation/blob/master/Week%202/Assignment2.ipynb)
 
 ## Week 3
 This week covers subplots, histograms, Boxplots, Heatmaps, Interactivit and animation using matplotlib. The complete notebook is [here](https://github.com/sumitkant/Coursera-UoM_Applied_Plotting_Charting_and_DataRepresentation/blob/master/Week%203/Week3.ipynb)
